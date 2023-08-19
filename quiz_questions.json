@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which leadership principle emphasizes starting with the customer and working backwards?",
+        "options": ["Customer Obsession", "Ownership", "Invent and Simplify", "Think Big"],
+        "answers": [0]
+    },
+    {
+        "question": "Which principle encourages leaders to act on behalf of the entire company?",
+        "options": ["Ownership", "Learn and Be Curious", "Insist on the Highest Standards", "Dive Deep"],
+        "answers": [0]
+    },
+    {
+        "question": "Which leadership principle focuses on seeking out innovation?",
+        "options": ["Are Right, A Lot", "Invent and Simplify", "Earn Trust", "Frugality"],
+        "answers": [1]
+    },
+    {
+        "question": "Which principle believes that leaders have strong judgment and good instincts?",
+        "options": ["Think Big", "Bias for Action", "Are Right, A Lot", "Hire and Develop the Best"],
+        "answers": [2]
+    },
+    {
+        "question": "Which principle emphasizes continuous learning?",
+        "options": ["Learn and Be Curious", "Dive Deep", "Have Backbone; Disagree and Commit", "Deliver Results"],
+        "answers": [0]
+    },
+    {
+        "question": "Which leadership principle is about raising the performance bar with every hire?",
+        "options": ["Earn Trust", "Hire and Develop the Best", "Insist on the Highest Standards", "Frugality"],
+        "answers": [1]
+    },
+    {
+        "question": "Which principle drives leaders to deliver high-quality products and services?",
+        "options": ["Think Big", "Insist on the Highest Standards", "Bias for Action", "Dive Deep"],
+        "answers": [1]
+    },
+    {
+        "question": "Which leadership principle encourages leaders to create and communicate a bold direction?",
+        "options": ["Think Big", "Learn and Be Curious", "Earn Trust", "Have Backbone; Disagree and Commit"],
+        "answers": [0]
+    },
+    {
+        "question": "Which principle believes that many decisions and actions are reversible and do not need extensive study?",
+        "options": ["Bias for Action", "Invent and Simplify", "Are Right, A Lot", "Frugality"],
+        "answers": [0]
+    },
+    {
+        "question": "Which leadership principle emphasizes accomplishing more with less?",
+        "options": ["Frugality", "Dive Deep", "Deliver Results", "Earn Trust"],
+        "answers": [0]
+    },
+    {
+        "question": "Which principle encourages leaders to listen attentively and speak candidly?",
+        "options": ["Earn Trust", "Think Big", "Bias for Action", "Hire and Develop the Best"],
+        "answers": [0]
+    },
+    {
+        "question": "Which leadership principle is about staying connected to the details?",
+        "options": ["Dive Deep", "Learn and Be Curious", "Invent and Simplify", "Frugality"],
+        "answers": [0]
+    },
+    {
+        "question": "Which principle encourages leaders to challenge decisions even when it's uncomfortable?",
+        "options": ["Have Backbone; Disagree and Commit", "Earn Trust", "Are Right, A Lot", "Think Big"],
+        "answers": [0]
+    },
+    {
+        "question": "Which leadership principle focuses on delivering results with the right quality?",
+        "options": ["Deliver Results", "Bias for Action", "Dive Deep", "Invent and Simplify"],
+        "answers": [0]
+    },
+    {
+        "question": "Which principle believes that constraints breed resourcefulness and invention?",
+        "options": ["Frugality", "Think Big", "Learn and Be Curious", "Earn Trust"],
+        "answers": [0]
+    },
+    {
+        "question": "Which leadership principle is about seeking ways to improve oneself?",
+        "options": ["Learn and Be Curious", "Dive Deep", "Think Big", "Bias for Action"],
+        "answers": [0]
+    },
+    {
+        "question": "Which principle believes that leaders should never say 'that's not my job'?",
+        "options": ["Ownership", "Earn Trust", "Are Right, A Lot", "Invent and Simplify"],
+        "answers": [0]
+    },
+    {
+        "question": "Which leadership principle is about seeking out new ideas even from external sources?",
+        "options": ["Invent and Simplify", "Think Big", "Dive Deep", "Frugality"],
+        "answers": [0]
+    },
+    {
+        "question": "Which principle believes that leaders should always compare themselves to the highest standards?",
+        "options": ["Earn Trust", "Deliver Results", "Are Right, A Lot", "Insist on the Highest Standards"],
+        "answers": [0]
+    },
+    {
+        "question": "Which leadership principle is about taking calculated risks?",
+        "options": ["Bias for Action", "Think Big", "Invent and Simplify", "Dive Deep"],
+        "answers": [0]
+    }
+]
